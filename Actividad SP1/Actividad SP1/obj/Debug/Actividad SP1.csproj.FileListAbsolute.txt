@@ -1,0 +1,11 @@
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\bin\Debug\Actividad SP1.exe.config
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\bin\Debug\Actividad SP1.exe
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\bin\Debug\Actividad SP1.pdb
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\obj\Debug\Actividad SP1.csproj.AssemblyReference.cache
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\obj\Debug\Actividad_SP1.FormLogin.resources
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\obj\Debug\Actividad_SP1.Properties.Resources.resources
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\obj\Debug\Actividad SP1.csproj.GenerateResource.cache
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\obj\Debug\Actividad SP1.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\obj\Debug\Actividad SP1.exe
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\obj\Debug\Actividad SP1.pdb
+C:\Users\Lautaro\Desktop\Programacion\EJERCICIO SPI\Actividad SP1\Actividad SP1\obj\Debug\Actividad_SP1.FrmInicio.resources
